@@ -37,7 +37,7 @@ Lista (Array) de Objetos usuarios, 2 constante do tipo lista jovens e adultos, f
 ### Sobre
 
   <p align= 'justify'>
-  Neste programa é fito para separa uma lista de usuário que possui pessoas menores de 18 anos, o objetivo e separar os menores dos maiores, sendo cada um em sua lista de objeto.
+  Neste programa é feito para separa uma lista de usuário que possui pessoas menores de 18 anos, o objetivo e separar os menores dos maiores, sendo cada um em sua lista de objeto.
     Foi usado uma lista de objetos (usuarios), criado duas nova constante com lista de objeto, for..of (loop), ternário, push (inserir) e Template strings para construir o texto   
 </p>
 
